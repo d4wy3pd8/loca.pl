@@ -9,3 +9,5 @@ Output files are suitable for use in Itsuitta, my windows software.
 
 いつ行った↓
 https://matchansk.sakura.ne.jp/itsuitta/
+
+Googleからダウンロードした #ロケーション履歴 を日付ごとの #kml に分割するPerlスクリプトを作った。そのファイル全てを拙作Windows用ソフト #いつ行った で検索すると所望の範囲を通過したのが何月何日だったかが全てわかる。 https://t.co/n6nDlrLDGM https://t.co/xE8dnAgenr #GPS #gpx #GPSログ
