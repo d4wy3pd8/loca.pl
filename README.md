@@ -4,6 +4,11 @@ This is a Perl script to split your Google location history (timeline)
 file downloaded from your account into files per each day.
 Output files are suitable for use in Itsuitta, my windows software.
 
+How to use:
+1. unzip kmz file.
+2. perl loca.pl xxx.kml
+
+
 このPerlスクリプトはGoogleのロケーション履歴(タイムライン)を一日ごとのファイルに分割します。
 「いつ行った」で検索したいときの前処理に最適です。
 
